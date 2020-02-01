@@ -2,7 +2,7 @@
 
 This is the official issue tracker for Swarm Arena.
 
-## Guidelines for submitting bugs
+## Guideline for submitting bugs
 
 1. Update to the latest version of the game, and check if the issue still persists.
 1. Include version information.
