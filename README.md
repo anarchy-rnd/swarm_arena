@@ -1,6 +1,6 @@
-# Swarm Arena
+# Swarm Armada
 
-This is the official issue tracker for Swarm Arena.
+This is the official issue tracker for Swarm Armada.
 
 ## Guideline for submitting bugs
 
